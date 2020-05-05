@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360998380648",
+    "firebase_url": "https://hawk-eye-7db1d.firebaseio.com",
+    "project_id": "hawk-eye-7db1d",
+    "storage_bucket": "hawk-eye-7db1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360998380648:android:d43d73e5f998acb6a107dd",
+        "android_client_info": {
+          "package_name": "com.moraaa.hawk_eye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360998380648-3niih7fe403fb1957u4skql7svajti6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHcAivcARWlvUIdmZwU14gPtg6dv3f9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360998380648-3niih7fe403fb1957u4skql7svajti6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
